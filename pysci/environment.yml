@@ -1,0 +1,9 @@
+name: sweet
+dependencies:
+- jupyter
+- matplotlib
+- numpy
+- scipy
+- sympy
+- graphviz
+
